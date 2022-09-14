@@ -1,4 +1,7 @@
-#                 👋  Hi, **I’m Muhammad**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there👋;Welcome+to+my+profile&size=40&height=80&width=500&center=true&vcenter=true)](https://git.io/typing-svg)<h1 align="center">
+  
+#                 **I’m Muhammad**
+  
 ##                JavaScript | Nodejs | AWS
 ### I’m currently enrolled in Udacity Cloud Developer Nano-Degree to further my Cloud development journey and I'm always open to learning new technologies and improving myself
 ### Reach out to me on:
