@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Muhammad
-- 👀 I’m interested in frontend and mostly the backend part of web development
+- 👀 I’m interested in backend and cloud development 
 - 🌱 I’m currently learning to be a fullstack Javascript developer
 - 💞️ I’m looking to collaborate on learning new stuffs as i begin my web development journey
