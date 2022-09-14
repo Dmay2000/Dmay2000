@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad
-- 👀 I’m interested in backend and cloud development 
-- 🌱 I’m currently learning to be a fullstack Javascript developer
-- 💞️ I’m looking to collaborate on learning new stuffs as i begin my web development journey
+#                 👋  Hi, **I’m Muhammad**
+##                JavaScript | Nodejs | AWS
+### I’m currently enrolled in Udacity Cloid Developer Nano-Degree to further my Cloud development journey and I'm always open to learning new stuffs, 
+### let's be friends 😊🙂 reach out to me on [twitter](https://twitter.com/muhhharmmard) or you could send me a [mail](muwwal4@gmail.com)
