@@ -18,9 +18,10 @@
 </p>
 
 
-### Reach out to me on:
+### Socials
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/muhhharmmard)
+<p align="left"> <a href="https://dmay.dev.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/muhhharmmard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 
 ### Schedule a call with me with [calendly](https://calendly.com/muhhharmmard)
 
